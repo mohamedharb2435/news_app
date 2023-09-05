@@ -2,12 +2,12 @@
 
 I present to you my simple project, a news application
 
-# language Used :
+# language Used 
 - Dart
 - Flutter
-# Future :
+# Future 
 - API
-# using Packages :
+# using Packages 
 - Dio
 - Cached Network Image
 - Webview Flutter Plus
