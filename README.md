@@ -1,6 +1,18 @@
 # news
 
-A new Flutter project.
+I present to you my simple project, a news application
+
+# language Used :
+- Dart
+- Flutter
+# Future :
+- API
+# using Packages :
+- Dio
+- Cached Network Image
+- Webview Flutter Plus
+- Animated Text Kit
+- Flutter Launcher Icons
 
 ## Getting Started
 
